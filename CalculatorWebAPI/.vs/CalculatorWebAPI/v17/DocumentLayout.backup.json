@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0E29D7-01CC-4A4D-A9F4-1366E5FEFFF5}|CalculatorWebAPI.csproj|c:\\users\\pratik.waghade\\onedrive - solera holdings, inc\\documents\\dotnet\\calculatorwebapi\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0E29D7-01CC-4A4D-A9F4-1366E5FEFFF5}|CalculatorWebAPI.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BF9549-3468-45A3-85B4-479E30966741}|..\\CalculatorConsumerMVC\\CalculatorConsumerMVC.csproj|c:\\users\\pratik.waghade\\onedrive - solera holdings, inc\\documents\\dotnet\\calculatorconsumermvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BF9549-3468-45A3-85B4-479E30966741}|..\\CalculatorConsumerMVC\\CalculatorConsumerMVC.csproj|c:\\users\\pratik.waghade\\onedrive - solera holdings, inc\\documents\\dotnet\\calculatorconsumermvc\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18BF9549-3468-45A3-85B4-479E30966741}|..\\CalculatorConsumerMVC\\CalculatorConsumerMVC.csproj|c:\\users\\pratik.waghade\\onedrive - solera holdings, inc\\documents\\dotnet\\calculatorconsumermvc\\models\\calculatorinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorInput.cs",
+              "DocumentMoniker": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorConsumerMVC\\Models\\CalculatorInput.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorConsumerMVC\\Models\\CalculatorInput.cs",
+              "ToolTip": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorConsumerMVC\\Models\\CalculatorInput.cs",
+              "RelativeToolTip": "..\\CalculatorConsumerMVC\\Models\\CalculatorInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T07:04:16.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorConsumerMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\CalculatorConsumerMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorConsumerMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\CalculatorConsumerMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T07:03:17.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorWebAPI\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorWebAPI\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:57:56.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcController.cs",
+              "DocumentMoniker": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorConsumerMVC\\Controllers\\CalcController.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorConsumerMVC\\Controllers\\CalcController.cs",
+              "ToolTip": "C:\\Users\\Pratik.Waghade\\OneDrive - Solera Holdings, Inc\\Documents\\DotNet\\CalculatorConsumerMVC\\Controllers\\CalcController.cs",
+              "RelativeToolTip": "..\\CalculatorConsumerMVC\\Controllers\\CalcController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:57:24.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CalculatorWebAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\CalculatorConsumerMVC\\CalculatorConsumerMVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
